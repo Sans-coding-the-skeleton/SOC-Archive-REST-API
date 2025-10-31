@@ -1,2 +1,4 @@
 /__pycache__
 instance/soc_archive.db
+api_test_results.json
+/.idea
